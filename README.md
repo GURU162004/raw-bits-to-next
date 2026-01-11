@@ -4,7 +4,7 @@ I’m tired of people misunderstanding Next.js. Modern web engineers blame Next.
 
 Most devs do **not** understand the runtime execution graph, cache layers, ISR mechanics, RSC protocol, Edge vs Node differences, or streaming hydration.
 
-I want to make people understand what happens **under the hood**. It may feel overwhelming at first, but trust me—you’ll fall in love with Next.js for its beauty.
+I want to make people understand what happens **under the hood**. It may feel overwhelming at first, but trust me you’ll fall in love with Next.js for its beauty.
 
 **This track lets you:**
 
@@ -211,8 +211,5 @@ It continues the ideas from this repo: [Raw Bits to React](https://github.com/re
 * Zero hydration errors
 * Works on Edge/Node
 
-**Outcome:**
 
-* You do not just **use** Next.js—you **reason about it**
-* You can confidently say: *“I fix broken Next.js apps”*
 
